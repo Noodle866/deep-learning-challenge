@@ -27,7 +27,7 @@ What steps did you take in your attempts to increase model performance: I change
 
 ## Summary
 
-Over all no major changes happened thoughout the retest. If you did not drop the "NAME" column the accuracy to 75% but due to challenge requirments that is not allowed.  
+Over all no major changes happened thoughout the retests. If you drop the "NAME" column the accuracy changes to 75% but due to challenge requirments that is not allowed.  
 
 
 ## Images showing corrections 
